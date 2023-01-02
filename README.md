@@ -1,2 +1,2 @@
 # Lead-Score_Logistic-Regression-Project
-This is M/L project that me and my colleague worked on. We require more guidance to make this project work more comprehensive, crisp &amp; visually informative. 
+This is M/L project that me and my colleague worked on. This project includes data of an Ed-Tech Company which wants insights related to leads conversion from various sources. Applying the best of we learned, providing the better approach, created a Logistic Regression Model as per the problem statement. We provided the better solution and clear, crisp conclusion as per dataset,data dictionary.  
